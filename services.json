@@ -1,0 +1,6 @@
+{
+  "validation": "http://127.0.0.1:8001",
+  "rule_engine": "http://127.0.0.1:8002",
+  "etl": "http://127.0.0.1:8003",
+  "automation": "http://127.0.0.1:8004"
+}
